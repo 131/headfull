@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "headfull": "^0.9.0",
+    "nyks": "^6.1.4",
+    "trayicon": "^1.1.0"
+  },
+  "devDependencies": {}
+}

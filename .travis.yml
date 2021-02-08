@@ -1,0 +1,13 @@
+git:
+  autocrlf: false
+language: node_js
+node_js:
+- 10
+after_script:
+- npm run coveralls
+deploy:
+  provider: npm
+  email: 131.frodon@cloudyks.org
+  api_key: $NPM_TOKEN
+  on:
+    tags: true
