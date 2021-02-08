@@ -4,3 +4,5 @@
 /test
 /disc
 /example/
+.eslint*
+.travis*

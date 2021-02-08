@@ -1,7 +1,16 @@
 {
+  "name": "headfull-example",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francois Leurent <131.code@leurent.email>",
+  "license": "ISC",
   "dependencies": {
     "headfull": "^0.9.0",
-    "nyks": "^6.1.4",
     "trayicon": "^1.1.0"
   },
   "devDependencies": {}
